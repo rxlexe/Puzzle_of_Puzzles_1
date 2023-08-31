@@ -69,5 +69,5 @@ h1 {
   right: 0;
   text-align: center;
   padding: 10px;
-  line-height: 1; /* To make the mountain range taller */
+  line-height: .5; /* To make the mountain range taller */
 }
